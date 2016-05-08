@@ -1,6 +1,6 @@
 Image Morph
 ==================================================================
-face morph           _strong_ using matlab<br>
+face morph          using matlab<br>
 #File Description
 cpselct.m : select feature points<br>
 Mydeluany.m : plot image with triangular using deluany<br>
